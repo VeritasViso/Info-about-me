@@ -6,7 +6,7 @@ I'm 16, based in Wales, and I'm building toward the top 0.1% of cybersecurity pr
 This GitHub is the honest, unedited record of that process — started before it looks impressive, because that's the only way the compounding starts.
 
 **Right now**
-- Completing TryHackMe Cybersecurity 101 path (16 day streak)
+- Completing TryHackMe's Cybersecurity 101 path (16 day streak)
 - Building foundational networking, Linux, and web knowledge
 - Documenting everything - write-ups, notes, projects
 
