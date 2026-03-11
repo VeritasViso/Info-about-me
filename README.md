@@ -16,7 +16,7 @@ This GitHub is the honest, unedited record of that process — started before it
 - First CTF competition BEFORE I feel ready
 
 **Direction**
-Offensive security. Adversial thinking. Eventually - penetration testing, bug bounty, and something I haven't built yet.
+Offensive security. Adversarial thinking. Eventually - penetration testing, bug bounty, and something I haven't built yet.
 
 ## The Philosophy
 I don't post when I have something impressive to show.
